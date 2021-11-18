@@ -1,0 +1,13 @@
+# Explanation of modified points (required)
+TODO1:重みを初期化
+TODO2:パターンxとを重みのユークリッド距離を計算する。
+TODO3:重みを更新する。
+
+
+# Discussion (if needed)
+
+
+# Comments (if needed)
+
+
+
